@@ -1,0 +1,21 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database config (contains credentials)
+dbconfig/config.php
+
+# Temporary files
+*.log
+*.tmp
+
+# Composer
+vendor/
+composer.lock
